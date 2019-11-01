@@ -77,6 +77,14 @@
                     <to_order>*</to_order>
                 </base_fee_amount>
             </sales_convert_quote_address>
+            <sales_convert_order>
+                <fee_amount>
+                    <to_order>*</to_order>
+                </fee_amount>
+                <base_fee_amount>
+                    <to_order>*</to_order>
+                </base_fee_amount>
+            </sales_convert_order>
         </fieldsets>
         <pdf>
             <totals>
